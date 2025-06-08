@@ -1,8 +1,6 @@
 module github.com/kunalkushwaha/mcp-navigator-go
 
-go 1.21.0
-
-toolchain go1.24.1
+go 1.21
 
 require (
 	github.com/fatih/color v1.18.0
